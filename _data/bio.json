@@ -23,6 +23,10 @@
     {
       "name": "Languages and Frameworks",
       "keywords": [ "C", "C++", "Java", "JavaScript", "React", "Meteor" ]
+    },
+    {
+      "name": "Communication",
+      "keywords": "Can express opinions and ideas in a professional manner"
     }
   ],
   "education": [
@@ -32,7 +36,10 @@
       "studyType": "B.S.",
       "startDate": "2022-01-20",
       "endDate": "Present",
-      "courses": [ "ICS 314 Software Engineering", "ICS 414 Software Engineering 2"
+      "courses": 
+      [ "ICS 314 Software Engineering",
+        "ICS 414 Software Engineering 2",
+        "MATH 307 Linear Algebra & Differential Equations"
       ]
     }
   ],
