@@ -7,7 +7,7 @@
     "phone": "",
     "website": "https://jligeral.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "96797", "city": "Waipahu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jligeral", "url": "http://github.com/jligeral" },
       { "network": "linkedin", "username": "jamesligeralde", "url": "http://linkedin.com/in/jamesligeralde" }
@@ -15,9 +15,9 @@
   },
   "interests": [
     { "name": "Software Engineering" },
-    { "name": "Nutrition" },
+    { "name": "Healthcare" },
     { "name": "Game Design" },
-    { "name": "Films" }
+    { "name": "Human Computer Interaction" }
   ],
   "skills": [
     {
@@ -32,7 +32,7 @@
       "studyType": "B.S.",
       "startDate": "2022-01-20",
       "endDate": "Present",
-      "courses": [
+      "courses": [ "ICS 314 Software Engineering", "ICS 414 Software Engineering 2"
       ]
     }
   ],
